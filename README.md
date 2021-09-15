@@ -17,7 +17,6 @@ Javascript ICS file creator &amp; downloader
   <input type="datetime-local" name="end" id="end"  value= "2021-09-17T10:12">
   <a id="save" href="#">Save</a>
 </form>
-
 <script src="ics.js"></script>
 <script>
   ICS.init("save");
