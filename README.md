@@ -1,8 +1,9 @@
 # ICS
 Javascript ICS file creator &amp; downloader
 
-## Demo sivusto
+## Esimerkki
   <a href="https://hittosepi.github.io/" target="_blank">Form esimerkki</a>
+  <a href="https://github.com/hittoSepi/hittoSepi.github.io/" target="_blank">Form esimerkki lähdekoodi</a>
 ## Tarvitsee 
 - JQuery
 ## Käyttö
